@@ -23,7 +23,7 @@
                                 <color key="textColor" red="0.98431372549019602" green="0.93333333333333335" blue="0.67450980392156867" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="pys-t7-Z7G">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="diamond" translatesAutoresizingMaskIntoConstraints="NO" id="pys-t7-Z7G">
                                 <rect key="frame" x="60" y="287" width="270" height="270"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -37,4 +37,7 @@
             <point key="canvasLocation" x="138.46153846153845" y="118.72037914691943"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="diamond" width="343.33334350585938" height="251.33332824707031"/>
+    </resources>
 </document>
